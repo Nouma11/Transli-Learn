@@ -28,7 +28,7 @@ Transli-Learn/
 
 Clone or download this repository
 
-git clone https://github.com/your-username/transli-learn.git
+git clone https://github.com/Nouma11/Transli-Learn
 
 
 Open index.html in your browser
